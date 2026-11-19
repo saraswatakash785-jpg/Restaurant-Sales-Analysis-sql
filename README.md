@@ -50,8 +50,8 @@ A SQL project in MySQL that answers 11 business questions about a restaurant's o
 |---|---|
 | `Restaurant Sales Analysis PDF.pdf` | the full project with all queries and results |
 | `restaurant_analysis.sql` | all 11 queries in one script |
-| `data/menu_items.csv` | the 32 menu items |
-| `data/order_details.csv` | every order line (12,234 rows) |
+| `menu_items.csv` | the 32 menu items |
+| `order_details.csv` | every order line (12,234 rows) |
 | `README.md` | this summary |
 
 ## Author
