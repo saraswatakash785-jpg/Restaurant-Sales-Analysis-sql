@@ -49,7 +49,8 @@ A SQL project in MySQL that answers 11 business questions about a restaurant's o
 | File | What it is |
 |---|---|
 | `Restaurant Sales Analysis PDF.pdf` | the full project with all queries and results |
-| `restaurant_analysis.sql` | all 11 queries in one script |
+| `restaurant_analysis.sql` | my 11 queries in one script |
+| `create_restaurant_db.sql` | setup script that comes with the Maven Analytics dataset (not written by me). It creates the `restaurant_db` database and loads the data in MySQL |
 | `menu_items.csv` | the 32 menu items |
 | `order_details.csv` | every order line (12,234 rows) |
 | `README.md` | this summary |
